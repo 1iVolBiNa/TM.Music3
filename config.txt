@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=ni 
+game= Plus Music | niplay
+stayinchannel=true
+songinstatus=false
+token=NTcwMjE4ODAwNzA4ODQ1NTY5.XL8Aew.NwITxfxrpGb0BONJxGDij8_R0TY
